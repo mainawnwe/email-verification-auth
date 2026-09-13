@@ -1,0 +1,9 @@
+Hi {{ name }},
+
+Your verification code is:
+
+    {{ code }}
+
+It expires in {{ ttl }} minutes.
+
+If you didn't request this, you can ignore this email.
